@@ -1,0 +1,19 @@
+body {
+    background-color: #F5EEDC
+ } 
+ h3 { 
+      : rgb(0, 0, 0);
+ }
+hr {
+    border-color: purple;
+    border-style: none;
+    border-bottom-style: dotted;
+    border-width: 10px;
+    width: 3%;  
+ }
+h1 {
+     color: 66BFBF;
+     }
+h3 {
+     color: 66BFBF;
+ }
