@@ -1,10 +1,7 @@
 body {
     background-color: #F5EEDC
  } 
- h3 { 
-      : rgb(0, 0, 0);
- }
-hr {
+ hr {
     border-color: purple;
     border-style: none;
     border-bottom-style: dotted;
